@@ -62,7 +62,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Li, Joey
 
-- [ ] Li, Wei
+- [X] Li, Wei(liweiamelia) Hello Daisy!
 
 - [ ] Lutz, Esme
 
@@ -84,7 +84,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ryu, Sam
 
-- [ ] Sepielli, Joshua
+- [X] Sepielli, Joshua (@joshuasepielli) :dog2:
 
 - [ ] Sherpa, Nima
 
